@@ -1,3 +1,25 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#title {
+  font-weight: 100 !important;
+}
+
+.navbar {
+  background-color: #076026;
+}
+
+.card {
+  width: 50%;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  background-color: #81A684;
+  color: white;
+  margin-top: 50px;
+}
+
 .center {
   width: 50%;
   height: 50%; 
@@ -17,4 +39,5 @@
 
 .btn {
   margin: 5px;
+  padding: 12px;
 }
