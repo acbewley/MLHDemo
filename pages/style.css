@@ -10,6 +10,11 @@ body {
   background-color: #076026;
 }
 
+.nav-info {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 .card {
   width: 50%;
   margin: auto;
