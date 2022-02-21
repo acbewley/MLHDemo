@@ -1,0 +1,57 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#title {
+  font-weight: 100 !important;
+}
+
+.navbar {
+  background-color: #076026;
+}
+
+.nav-info {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.card-cont {
+  padding: 0;
+  margin: auto;
+}
+
+.card {
+  width: 75%;
+  height: 50%;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  background-color: #81A684;
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  padding: 50px;
+}
+
+.center {
+  width: 50%;
+  height: 50%; 
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;    
+  margin: auto;
+  text-align: center;
+}
+
+.col-sm {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.btn {
+  margin: 5px;
+  padding: 12px;
+}
